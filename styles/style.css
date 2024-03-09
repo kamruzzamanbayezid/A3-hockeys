@@ -5,3 +5,27 @@
       list-style: none;
       display: inline;
 } */
+
+
+
+
+.programme-image-one {
+      background-image: linear-gradient(rgba(19, 19, 24, 0.50), rgba(19, 19, 24, 0.50)), url('../image/2.png');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+
+.programme-image-two {
+      background-image: linear-gradient(rgba(19, 19, 24, 0.50), rgba(19, 19, 24, 0.50)), url('../image/3.png');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+
+.programme-image-three {
+      background-image: linear-gradient(rgba(19, 19, 24, 0.50), rgba(19, 19, 24, 0.50)), url('../image/4.png');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
